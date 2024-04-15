@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Azure VM Server Deployment Project</title>
+   
 </head>
 <body>
 
-<h1>Azure VM Server Deployment Project</h1>
+<h1>Azure VM Server, Manual Deployment Project</h1>
 
 <img src="https://i.imgur.com/Jb075xF.png" alt="Step 1 Image">
 
