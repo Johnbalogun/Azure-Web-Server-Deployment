@@ -1,4 +1,5 @@
-# Azure VM Server Project
+# Azure VM Server Deployment Project
+
 
 ![Step 1 Image](https://i.imgur.com/Jb075xF.png)
 
