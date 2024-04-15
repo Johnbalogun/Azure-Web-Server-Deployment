@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1>Azure VM Server, Manual Deployment Project</h1>
+<h1>Azure VM Server (Manual) Deployment Project</h1>
 
 <img src="https://i.imgur.com/Jb075xF.png" alt="Step 1 Image">
 
